@@ -14,10 +14,10 @@ To write a python program to find the distance two 2 points
 #Developed by: SANJAY S
 #RegisterNumber:212222230132
 import math
-d1=[4,2]
-d2=[10,6]
-dist=math.sqrt(((d2[0]-d1[0])**2)+((d2[1]-d1[1])**2))
-print("%.2f"%dist)
+a=[10,6]
+b=[4,2]
+dist=math.sqrt (((b[0]-a[0])**2)+((b[1]-a[1])**2))
+print("{:.2f}".format(dist))
 ```
   
 
@@ -25,7 +25,7 @@ print("%.2f"%dist)
 ### OUTPUT:
 
 
-![PY EX ](https://user-images.githubusercontent.com/119091638/227917833-f8adb9bb-f314-49ec-80e4-3badef3e441f.png)
+![image](https://github.com/22002102/DISTANCE-BETWEEN-TWO-POINTS/assets/119091638/cdefb334-0b38-482e-aa43-50fcfee44b7d)
 
 
 
